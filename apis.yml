@@ -1,7 +1,20 @@
 aid: housewhisper
 name: Housewhisper
-description: Housewhisper is a company surfaced as a portfolio company of mayfield and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  HouseWhisper (legal name Real Estate Productivity, Inc.) is a Seattle-based AI
+  platform for real estate teams and brokerages, founded by former Zillow
+  executives. It acts as a 24/7 AI teammate that automates the full lead
+  lifecycle through personalized voice and text conversations: a Lead Engine
+  that re-engages and revives cold database contacts, a Rules Engine that routes
+  leads to the right agent with fallback escalations, and an AI Teammate that
+  handles CRM updates, follow-ups, scheduling, reminders, and administrative
+  busywork by call or text. It connects to real estate CRM, dialer, and calendar
+  systems via API keys with no data migration, integrating with Follow Up Boss,
+  Sierra Interactive, kvCORE, MoxiWorks, Salesforce, Lofty, HubSpot, and others.
+  Pricing is outcome-based (a small monthly platform fee plus referral fees on
+  closed deals). HouseWhisper has raised roughly $10M in seed funding led by
+  Mayfield. The company does not currently publish a public developer API,
+  documentation, or SDKs.
 url: https://raw.githubusercontent.com/api-evangelist/housewhisper/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,17 +22,64 @@ x-backed-by:
 - mayfield
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-legal-name: Real Estate Productivity, Inc.
+x-headquarters: Seattle, Washington
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://www.housewhisper.ai/og-image.png
 tags:
 - Company
+- Real Estate
+- Artificial Intelligence
+- AI Assistant
+- Voice AI
+- Lead Management
+- CRM
+- PropTech
+- Sales Automation
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+- FN: HouseWhisper Support
+  email: support@housewhisper.ai
 common:
 - type: Website
   url: https://housewhisper.ai
+- type: About
+  url: https://housewhisper.ai/about
+- type: Blog
+  url: https://housewhisper.ai/in-the-news
+- type: SignUp
+  url: https://housewhisper.ai/book-a-demo
+- type: Login
+  url: https://dashboard.housewhisper.ai/
+- type: Support
+  url: mailto:support@housewhisper.ai
+- type: TermsOfService
+  url: https://housewhisper.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://housewhisper.ai/privacy-policy
+- type: LLMsTxt
+  url: llms/housewhisper-llms.txt
+- type: DomainSecurity
+  url: security/housewhisper-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

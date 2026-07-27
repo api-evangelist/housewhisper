@@ -1,0 +1,56 @@
+---
+generated: '2026-07-19'
+method: searched
+source: https://housewhisper.ai/llms.txt
+---
+# HouseWhisper
+
+> The AI teammate for real estate teams.
+
+HouseWhisper is an AI-powered platform for real estate teams and brokerages. It helps teams manage follow-up, CRM updates, lead re-engagement, reminders, and administrative workflows through AI-powered voice and text interactions.
+
+## Current Public Site Scope
+
+The current public website intentionally exposes a focused retained route set:
+
+- Homepage: https://www.housewhisper.ai/
+- About: https://www.housewhisper.ai/about
+- In the News: https://www.housewhisper.ai/in-the-news
+- Book a Demo: https://www.housewhisper.ai/book-a-demo
+- Privacy Policy: https://www.housewhisper.ai/privacy-policy
+- Terms of Service: https://www.housewhisper.ai/terms-of-service
+- Press Release - Press Release: HouseWhisper Launches AI-Powered Lead Nurturing & Routing: https://www.housewhisper.ai/press-releases/housewhisper-launches-lead-engine-rules-engine
+
+Removed or future-release sections should not be treated as current public documentation unless they appear in the retained route list above.
+
+## Product Summary
+
+- Product: HouseWhisper
+- Category: BusinessApplication
+- Operating systems: Web, iOS, Android
+- Current feature areas:
+  - Lead Engine: AI-powered lead re-engagement for existing contact databases.
+  - Rules Engine: Automated workflow management for real estate teams.
+  - AI Teammate: An AI teammate for agents that works through voice and text.
+
+## CRM Integrations
+
+HouseWhisper works with real estate CRM and team workflows. Public site copy currently references Follow Up Boss, Sierra Interactive, kvCORE, MoxiWorks, Salesforce, Lofty, HubSpot and additional CRMs on request.
+
+## Entity Signals
+
+- Brand: HouseWhisper
+- Legal name: Real Estate Productivity, Inc.
+- Category: Real estate AI software
+- Headquarters: Seattle, Washington
+- Target market: real estate teams and brokerages in the United States
+- Website: https://www.housewhisper.ai/
+- Support: support@housewhisper.ai
+
+## Pending Entity Facts
+
+Founded date/year, founder list, funding, and adoption metrics are intentionally omitted until approved values are provided.
+
+## Crawl Policy
+
+For current public discovery, prefer the retained routes listed above and the canonical URLs declared in page metadata. Use https://www.housewhisper.ai/sitemap.xml for the current indexable route set.
