@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/housewhisper/integrations
+- https://n8n.io/integrations/housewhisper/
+- https://composio.dev/toolkits/housewhisper
+- https://monid.ai/tools/housewhisper
+checked:
+- https://composio.dev/toolkits/housewhisper
+- https://monid.ai/tools/housewhisper
+- https://n8n.io/integrations/housewhisper/
+- https://zapier.com/apps/housewhisper/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
